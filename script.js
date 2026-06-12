@@ -3,92 +3,92 @@
         title: "Modern Family", 
         season: "11 Seasons • 250 Episodes", 
         tags: ["🏡 Family Comedy", "😂 Heartwarming", "📺 Easy Watching"], 
-        posterImg: "images/modernfamily.jpg", 
-        bgImg: "images/modernfamily2.jpg" 
+        posterImg: "modernfamily.jpg", 
+        bgImg: "modernfamily2.jpg" 
     },
     { 
         title: "Community", 
         season: "6 Seasons • 110 Episodes", 
         tags: ["🎲 Meta Humor", "🤪 Chaotic", "🎬 Pop Culture Heavy"], 
-        posterImg: "images/community.jpg", 
-        bgImg: "images/community2.jpg" 
+        posterImg: "community.jpg", 
+        bgImg: "community2.jpg" 
     },
     { 
         title: "The Big Bang Theory", 
         season: "12 Seasons • 279 Episodes", 
         tags: ["🧪 Nerdy Comedy", "😂 Easy Laughs", "🏠 Hangout Sitcom"], 
-        posterImg: "images/bigbangtheory.jpg", 
-        bgImg: "images/bigbangtheory2.jpg" 
+        posterImg: "bigbangtheory.jpg", 
+        bgImg: "bigbangtheory2.jpg" 
     },
     { 
         title: "Brooklyn Nine-Nine", 
         season: "8 Seasons • 153 Episodes", 
         tags: ["🚔 Police Comedy", "😆 Chaotic", "🍕 Easy Watching"], 
-        posterImg: "images/brooklyn99.jpg", 
-        bgImg: "images/brooklyn992.jpg" 
+        posterImg: "brooklyn99.jpg", 
+        bgImg: "brooklyn992.jpg" 
     },
     { 
         title: "Kim's Convenience", 
         season: "5 Seasons • 65 Episodes", 
         tags: ["🏪 Family Sitcom", "🥹 Wholesome", "☕ Cozy Vibes"], 
-        posterImg: "images/kims.jpg", 
-        bgImg: "images/kims2.jpg" 
+        posterImg: "kims.jpg", 
+        bgImg: "kims2.jpg" 
     },
     { 
         title: "Unbreakable Kimmy Schmidt", 
         season: "4 Seasons • 51 Episodes", 
         tags: ["🌈 Quirky Comedy", "✨ Optimistic", "🤪 Chaotic Energy"], 
-        posterImg: "images/unbreakable.jpg", 
-        bgImg: "images/unbreakable2.jpg" 
+        posterImg: "unbreakable.jpg", 
+        bgImg: "unbreakable2.jpg" 
     },
     { 
         title: "Abbott Elementary", 
         season: "4 Seasons • 71 Episodes", 
         tags: ["🏫 Workplace Comedy", "🥹 Heartwarming", "📚 Feel-Good"], 
-        posterImg: "images/abbot.jpg", 
-        bgImg: "images/abbot2.jpg" 
+        posterImg: "abbot.jpg", 
+        bgImg: "abbot2.jpg" 
     },
     { 
         title: "2 Broke Girls", 
         season: "6 Seasons • 138 Episodes", 
         tags: ["💸 Friends Comedy", "😂 Fast-Paced", "🍰 Easy Watching"], 
-        posterImg: "images/2brokegirls.jpg", 
-        bgImg: "images/2brokegirls2.jpg" 
+        posterImg: "2brokegirls.jpg", 
+        bgImg: "2brokegirls2.jpg" 
     },
     { 
         title: "Never Have I Ever", 
         season: "4 Seasons • 40 Episodes", 
         tags: ["🎓 Coming-of-Age", "💕 Romance", "😅 Awkward Comedy"], 
-        posterImg: "images/neverhaveiever.jpg", 
-        bgImg: "images/neverhaveiever2.jpg" 
+        posterImg: "neverhaveiever.jpg", 
+        bgImg: "neverhaveiever2.jpg" 
     },
     { 
         title: "Friends", 
         season: "10 Seasons • 236 Episodes", 
         tags: ["☕ Classic Sitcom", "😂 Easy Laughs", "🏙️ Hangout Comedy"], 
-        posterImg: "images/friends.jpg", 
-        bgImg: "images/friends2.jpg" 
+        posterImg: "friends.jpg", 
+        bgImg: "friends2.jpg" 
     },
     { 
         title: "The Good Place", 
         season: "4 Seasons • 53 Episodes", 
         tags: ["😇 Afterlife Comedy", "🧠 Clever Humor", "💛 Feel-Good"], 
-        posterImg: "images/goodplace.jpg", 
-        bgImg: "images/goodplace2.jpg" 
+        posterImg: "goodplace.jpg", 
+        bgImg: "goodplace2.jpg" 
     },
     {
         title: "The Office (US)", 
         season: "9 Seasons • 201 Episodes", 
         tags: ["📄 Workplace Comedy", "😂 Awkward Humor", "📎 Mockumentary Style"], 
-        posterImg: "images/theoffice.jpg", 
-        bgImg: "images/theoffice2.jpg" 
+        posterImg: "theoffice.jpg", 
+        bgImg: "theoffice2.jpg" 
     },
     {
         title: "White Chicks", 
         season: " movie • 109 min ", 
         tags: ["💅 Disguise Comedy 🤣 Absurd Humor 🎉 Party Vibes 👥 Group Friendly"],
-        posterImg: "images/whitechicks.jpg", 
-        bgImg: "images/whitechicks2.jpg" 
+        posterImg: "whitechicks.jpg", 
+        bgImg: "whitechicks2.jpg" 
     }
 ];
 
